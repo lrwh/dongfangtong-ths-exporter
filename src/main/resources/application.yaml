@@ -1,0 +1,8 @@
+ths:
+  url: http://localhost:8080/api/http/monitor/format/json
+
+server:
+  port: 8081
+
+# 指标采集周期
+cron: "*/3 * * * * ?"
