@@ -21,3 +21,5 @@ java -jar dongfangtong-ths-exporter.jar --ths.url=http://localhost:8080/api/http
 | `ths_shared_zone_size` | zone size |
 | `ths_server_zone_over_count` | zone over count|
 | `ths_connections` | `ths` connects |
+
+更多指标信息[参考文档](https://github.com/lrwh/dongfangtong-ths-exporter/blob/main/TongHttpServer%20v6.0%E7%94%A8%E6%88%B7%E6%89%8B%E5%86%8C.pdf)
